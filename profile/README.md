@@ -94,6 +94,19 @@ def create_domain(self, domain_name: str) -> str | None:
 
 ## 4) 데모 영상
 1. 주요 기능 시연 영상
+- 결제 시연
+https://drive.google.com/file/d/1a_CWLzZfMno7vvlAlpNVmjhmzL-dYg2-/view?usp=sharing
+
+- 작가 가입 및 작품 등록
+https://drive.google.com/file/d/1WLRIG5huAQSXHTxk72BrXSWjrWVIVQTt/view?usp=sharing
+
+- 갤러리 가입 및 도메인 생성
+https://drive.google.com/file/d/1YRULZJybsWTuPpyTL-SRBf-iH-Rim-G8/view?usp=sharing
+
+- 갤러리 작가 초대
+https://drive.google.com/file/d/1UdkibdrqBffz_ne4MMbjgbfdjgKiz18c/view?usp=sharing
+
+<br>
 
 2. 프로젝트 설명 데모 영상(오디오 포함)
 
