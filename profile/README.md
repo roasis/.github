@@ -109,6 +109,7 @@ https://drive.google.com/file/d/1UdkibdrqBffz_ne4MMbjgbfdjgKiz18c/view?usp=shari
 <br>
 
 2. 프로젝트 설명 데모 영상(오디오 포함)
+- https://www.canva.com/design/DAGzjv1Hc7M/WIlnJvFuT5MKLVuu7FQzyA/edit?utm_content=DAGzjv1Hc7M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 <br>
@@ -183,3 +184,14 @@ app/
  │   └─ pinata_client.py    # IPFS 업로드 클라이언트
  └─ main.py                 # FastAPI 엔트리포인트
  ```
+
+ <br>
+
+## 7) 팀 멤버
+| 이름 | 역할 | 담당 |
+|------------|-----------|----------------------|
+| **반정훈** | **Team Lead / Backend Developer** | FastAPI 기반 백엔드 설계 및 XRPL 연동 (Permissioned Domain, Batch 처리 로직 구현), Docker 기반 배포, AWS 인프라 관리 |
+| **허초아** | **Designer / PM** | 서비스 UX/UI 기획, 화면 설계 및 프로토타입 제작(Figma), 발표 자료 제작 및 데모 영상 편집 |
+| **김성수** | **Frontend Developer** | Next.js 기반 웹 프론트엔드 개발, NFT 발행/구매 UI 및 사용자 흐름 설계, API 통신 및 상태관리 구현 |
+| **이재혁** | **Frontend Developer** | Next.js 기반 웹 프론트엔드 개발, XRPL Wallet(Xaman) 연동, 트랜잭션 처리 및 결과 표시 로직 개발 |
+| **최시원** | **Backend Developer** | FastAPI 기반 백엔드 설계 및 XRPL 연동(NFT Mint/Offer 로직 구현), IPFS(Pinata) 업로드 자동화 |
