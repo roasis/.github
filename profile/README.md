@@ -1,7 +1,7 @@
 # Roasis
 > **Roasis는 XRPL 기반 초저비용·고속 미술품 분할투자 플랫폼으로, 신진 작가와 투자자에게 투명한 소유권과 공정한 수익 기회를 제공합니다**
 
-![image](./main.png)
+<img width="1917" height="869" alt="main" src="https://github.com/user-attachments/assets/0aa969bf-7f37-4958-af37-3c2aa0024c99" />
 
 <br>
 
